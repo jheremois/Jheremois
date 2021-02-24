@@ -37,10 +37,11 @@
 ---
 
 <h1 id ="projects" align='center'>projects I have worked on </h1>
-<p align="center">                 
-<a href="https://github.com/jheremois/Mandelbrot">
+<p align="center">
+
+[comment]: <> (<a href="https://github.com/jheremois/Mandelbrot">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=jheremois&repo=mandelbrot&show_owner=true&theme=tokyonight">
- </a>
+ </a>)
 <a href="https://github.com/jheremois/noting">
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=jheremois&repo=noting&show_owner=true&theme=tokyonight">
  </a>
