@@ -31,7 +31,7 @@
 
 <br>
 
-<h4>  My name is Jheremy Castro, i'm a software developer from Dominican Republic, with knowledge of front-end and back-end, database management, seo and everything related to web development.</h4>
+<h4>  My name is Jheremy Castro, i'm a software developer from Dominican Republic, with knowledge of front-end and back-end, database management, seo and everything related to web and mobile development.</h4>
 <br>
 
 ---
