@@ -10,11 +10,11 @@
 </h4>
 
 <h4>
- I mainly develop mobile and web applications and from time to time I try robotics and lately also data science.
+ I mainly develop mobile and web applications and from time to time I try robotics.
 </h4>
 
 <h4>
- I have great interest in developing useful things and meeting creative people with similar interests.
+ I have great interest in developing useful things, learn more about data science and meeting creative people with similar interests.
 </h4>
 <br>
 
