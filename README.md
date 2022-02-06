@@ -6,15 +6,15 @@
 <br>
 
 <h4>
- My name is Jheremy Castro, i'm a software developer and lately data scientist wannabe from Dominican Republic.
+ My name is Jheremy Castro, i'm a software developer from Dominican Republic.
 </h4>
 
 <h4>
- I mainly develop mobile and web applications and from time to time i try robotics
+ I mainly develop mobile and web applications and from time to time I try robotics and lately also data science.
 </h4>
 
 <h4>
- I heve great interrest in develop usefull things and meet people with similar interrests 
+ I have great interest in developing useful things and meeting creative people with similar interests.
 </h4>
 <br>
 
