@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-JheremyCastro-bb201d?style=flat&logo=Gmail&logoColor=white&link=mailto:jheremy802@gmail.com)](mailto:jheremy802@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-ed4956?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jheremois/)
 
-<h1  align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello I am Jheremois </h1>
+<h1  align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello I am Jheremy Castro </h1>
 <br>
 
 <h4>
