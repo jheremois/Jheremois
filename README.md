@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jheremy%20Castro-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jheremyricardo-castro-guerrero-3a85521a0/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jheremy%20Castro-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jheremy-ricardo-castro-guerrero/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@jheremois-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jheremois/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-geekguysstudio.com-111827?style=flat&logo=vercel&logoColor=white)](https://www.geekguysstudio.com/jheremycastro)
 
