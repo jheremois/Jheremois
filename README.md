@@ -31,7 +31,7 @@
 - 🥇 **Ganador — Hackathon ESED 2021**  
   🔗 https://www.linkedin.com/feed/update/urn:li:activity:6840691783177949184/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6840691783177949184%29
 
-- 🥇 **Ganador — Hackatón CREE Banreservas 2025**  
+- 🥇 **Ganador — Hackathon CREE Banreservas 2025**  
   🔗 https://www.linkedin.com/feed/update/urn:li:activity:7324065388068040704/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7324065388068040704%29
 
 ---
